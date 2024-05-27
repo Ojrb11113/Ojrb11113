@@ -2,7 +2,7 @@
 - I am Orlando Ramirez, a passionate and self-taught software developer.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando-blue)](linkedin.com/in/orlando-ramírez-a81944279)
+[![LinkedIn][(linkedin.com/in/orlando-ramírez-a81944279)]
 
 ## 💻 Teck stack:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
