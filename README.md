@@ -1,7 +1,10 @@
-## Hi
-- I am Orlando Ramirez, a passionate and self-taught software developer.👋
+## Hi 👋
+- I am Orlando Ramirez, a passionate and self-taught software developer.
 
-## Skills:
+## 🌐 Socials:
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-blue)](www.linkedin.com/in/orlando-ramírez-a81944279)
+
+## 💻 Teck stack:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -13,6 +16,8 @@
 - ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+- ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
 - ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
 <!--
