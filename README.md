@@ -11,6 +11,10 @@
 - ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
+- ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
 <!--
 **Ojrb11113/Ojrb11113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
